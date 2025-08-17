@@ -11,7 +11,3 @@ This repository is a collection of resources related to **APIs** — covering th
 
 ## Purpose
 To provide a **one-stop knowledge hub** for learning and working with APIs, useful for both beginners and experienced developers.
-
----
-
-Feel free to contribute by opening an issue or pull request!
