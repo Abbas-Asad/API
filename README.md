@@ -14,4 +14,4 @@ To provide a **one-stop knowledge hub** for learning and working with APIs, usef
 
 ---
 
-⭐ Feel free to contribute by opening an issue or pull request!
+Feel free to contribute by opening an issue or pull request!
